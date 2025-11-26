@@ -22,13 +22,6 @@ ShabbibySend est une application de bureau en Python (Tkinter) qui permet de par
 
 \- Interface moderne avec suivi en temps réel :
 
-&nbsp; - Progression du transfert.
-
-&nbsp; - Vitesse actuelle.
-
-&nbsp; - Statistiques de session (fichiers envoyés / reçus, volume total).
-
-
 
 \## Installation
 
@@ -40,9 +33,9 @@ ShabbibySend est une application de bureau en Python (Tkinter) qui permet de par
 
 1\. Télécharge le dernier installeur depuis la page des releases :  
 
-&nbsp;  👉 \[Télécharger la dernière version](https://github.com/TON-USER/TON-REPO/releases/latest)
+&nbsp;  👉 \[Télécharger la dernière version](https://github.com/ShabbibyGIT/AppSend/releases/latest)
 
-2\. Lance le fichier `LocalShare-Setup.exe`.
+2\. Lance le fichier `setupShabbibySend.exe`.
 
 3\. Suis les étapes de l’installateur.
 
